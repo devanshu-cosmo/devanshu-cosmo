@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Devanshu Sharma
 
-<!--
-**devanshu-cosmo/devanshu-cosmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD in Computational Cosmology (RWTH Aachen, Germany)**  
+Experienced in stochastic simulations, statistical analysis, and high-performance computing. My interests span quantitative finance, energy trading, scientific computing, and algorithm development for complex systems in physics and engineering. Passionate about
 
-Here are some ideas to get you started:
+- 🔬 Physics, simulations, and algorithm design
+- 📊 Quantitative finance & energy markets
+- 🤖 Machine learning, AI, and data-driven research
+- ⚡ Always curious about new challenges at the intersection of science, technology, and industry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let's connect!**
+- 📫 Email: drsharma@physik.rwth-aachen.de  | devanshu_cosmo@proton.me
+- 💼 [LinkedIn](https://www.linkedin.com/in/devanshu-sharma-08b97b20b/)  
+
+Open to collaborations and new opportunities in research, industry, and beyond.
