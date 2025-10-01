@@ -1,9 +1,9 @@
 # Hi, I'm Devanshu Sharma
 
 **PhD in Computational Cosmology (RWTH Aachen, Germany)**  
-Experienced in stochastic simulations, statistical analysis, and high-performance computing. My interests span quantitative finance, energy trading, scientific computing, and algorithm development for complex systems in physics and engineering. Passionate about
+Experienced in stochastic simulations, mathematical rigor, statistical modelling, data analysis, and high-performance computing. My interests span a range of sectors, including
 
-- 🔬 Physics, simulations, and algorithm design
+- 🔬 Physics, simulations, and algorithm development
 - 📊 Quantitative finance & energy markets
 - 🤖 Machine learning, AI, and data-driven research
 - ⚡ Always curious about new challenges at the intersection of science, technology, and industry
